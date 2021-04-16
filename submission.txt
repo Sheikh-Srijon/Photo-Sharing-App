@@ -1,0 +1,29 @@
+Project #8 - Submission form
+
+
+* 
+* Marketing Video URL (ensure permissions are set to public viewing): https://youtu.be/9rB0Q0WfJuY
+* 
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? No
+* 
+* Instructions for Grading (should be easy to run app from new machine): None
+
+Story Number and Name: 6 --Implemented Likes for Photos
+Story Points: 4
+
+There is a Like button below photos, which when pressed registers Likes and changes text to unlike 
+
+************* STORY 2 * ******************
+Story Number and Name : 5 -- Implemented deleting for comments, photos, and users
+Story points : 4
+
+Works on the backend. On the front end, deletes and logs out. Nothing is rendered on the page once account is deleted. User list remains visible until next user logs in -- then they dont see the name of the recently deleted user. 
+
+Delete button under photo for photo delete (DELETE button), adjacent to comment for comment delete (DELETE COMMENT button), and in the top bar (DELETE ACCOUNT) for user delete with an alert for confirmation.
+
+**********STORY 3 * ********
+
+Story Number and Name: 1 --- Extend user detail with usage 
+Story points: 3
+Description: Most recent photo and comment thumbnail shown. 
+
